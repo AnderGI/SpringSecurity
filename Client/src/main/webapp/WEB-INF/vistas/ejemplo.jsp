@@ -1,5 +1,5 @@
 <%@ page language="java" contentType="text/html; charset=ISO-8859-1"
-    pageEncoding="ISO-8859-1"%>
+	pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,8 +11,8 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous" defer></script>
 </head>
 <body>
-	<jsp:include page="Navbar.jsp" >
-		<jsp:param value="${usuario}" name="usuario"/>
+	<jsp:include page="Navbar.jsp">
+		<jsp:param value="${usuario}" name="usuario" />
 	</jsp:include>
 	<main>
 		<h1>Página de Inicio</h1>
