@@ -15,7 +15,8 @@
 		<jsp:param value="${usuario}" name="usuario" />
 	</jsp:include>
 	<main>
-		<h1>Página de Inicio</h1>
+		<h1>Página de Records</h1>
+		${records }
 	</main>
 </body>
 </html>

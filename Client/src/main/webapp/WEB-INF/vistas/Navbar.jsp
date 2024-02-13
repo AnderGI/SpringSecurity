@@ -22,7 +22,7 @@
 			<nav>
 				<ul
 					class="d-flex flex-row justify-content-center align-items-center list-unstyled">
-					<li class><a href="/ejemplo"
+					<li class><a href="/records"
 						class="px-5 font-weight-bold text-decoration-none text-dark">Ejemplo</a></li>
 					<li><a href="/p2"
 						class="px-5 font-weight-bold text-decoration-none text-dark">Página
